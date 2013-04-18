@@ -1,7 +1,6 @@
 # Django settings for Intellishop project.
 import os
 SITE_ROOT = os.path.dirname(os.path.realpath(__file__))
-MAIN_ROOT = os.path.dirname(os.path.realpath("manage.py"))
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 ADMINS = (
