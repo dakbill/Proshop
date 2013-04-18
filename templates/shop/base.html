@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+{%block content%}
+    <head>
+		    <meta charset="utf-8">
+		    <title>Intellishop</title>
+		    <link rel="icon" href="/static/bootstrap/img/favicon.ico"  sizes="16x16" />
+		    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		    <meta name="description" content="">
+		    <meta name="author" content="">
+
+    <!-- Le styles -->
+
+		    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+		    <style type="text/css">
+		      body {
+			padding-top: 60px;
+			padding-bottom: 40px;
+		      }
+		    </style>
+		    <link href="/assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+		    <!-- This Section is platform specific don't touch -->
+		    <!--[if lt IE 9]>
+		      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		    <![endif]-->
+
+		    <!-- Le fav and touch icons -->
+		    <link rel="shortcut icon" href="/assets/ico/favicon.ico">
+
+		    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144-precomposed.png">
+		    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114-precomposed.png">
+		    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72-precomposed.png">
+		    <link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57-precomposed.png">
+				<link rel="stylesheet" href="/static/bootstrap/css/bootstrap.css"/>	
+
+
+		
+			 <div class="navbar navbar-fixed-top">
+		      <div class="navbar-inner">
+
+			<div class="container-fluid">
+			  <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+			    <span class="icon-bar"></span>
+			    <span class="icon-bar"></span>
+			    <span class="icon-bar"></span>
+			  </a>
+			  <a class="brand" href="http://localhost:8000/shop">IntelliShop</a>
+			  <div class="btn-group pull-right"> 
+			  </div>
+			  <div class="nav-collapse">
+			    <ul class="nav">
+			      <li class="active"><a href="{%url about  %}">About Us </a></li>
+                  <li class="active"><a href="shops">Shops Onboard </a></li>
+			    </ul>
+			  </div><!--/.nav-collapse -->
+			</div>
+		      </div>
+		    </div>
+	</head>
+
+
+
+
+	<body>
+
+	<div class="container">   		
+     		<div>
+        	<center><div class="active item"><img src='/static/bootstrap/img/verify.png'></div></center>
+	        </div>
+			
+		<form action="" method="post">
+	 	<div class="control-group">
+            	<div class="controls">
+
+              <div class="input-append">
+                <center><input class="span5" id="appendedInputButton" size="1" type="text" placeholder="{{error}}" name="search_product"><button class="btn btn-primary " input type="submit" value="Submit" >Shop!</button></center></form>
+                {%endblock%}
+      <br/>
+      <br/>
+			<div class="span12">
+							<p class="span3"></p>
+							<p class="well span4"><b>Accepted Input Formats</b><br/>
+                                Product name,manufacturer,shop<br/>
+							 Product name,shop<br/>
+                             Manufacturer,shop<br/>
+                            </p>
+							<p class="span4"></p>
+			</div>			    
+	
+              </div>
+            </div>
+          </div>
+      <footer>
+      </footer>
+	</body>
+</html>

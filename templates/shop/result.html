@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <!--input -->
+    <link rel="icon" href="/static/bootstrap/img/favicon.ico"  sizes="16x16" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+        body {
+            padding-top: 60px;
+            padding-bottom: 40px;
+        }
+    </style>
+    <link href="/assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- This Section is platform specific don't touch -->
+    <!--[if lt IE 9]>
+		      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="/assets/ico/favicon.ico">
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="stylesheet" href="/static/bootstrap/css/bootstrap.css"/>
+
+
+
+    <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+
+            <div class="container-fluid">
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    x	    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <a class="brand" href="/shop">IntelliShop</a>
+                <div class="btn-group pull-right">
+                </div>
+                <div class="nav-collapse">
+                    <ul class="nav">
+                        <li class="active"><a href="#">Something goes here </a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </div>
+    </div>
+    <!--input end -->
+    <title>Intellishop</title>
+
+    <link rel="stylesheet" href="/static/bootstrap/css/scrybaweb.main.css">
+
+    <script src="/static/bootstrap/js/jquery.min.js"></script>
+    <script src="/static/bootstrap/js/scrybaweb.jquery.js"></script>
+    <script>
+        $(function(){
+            $('#slides').slides({
+                preload: true,
+                preloadImage: '/static/bootstrap/img/loading.gif',
+                play: 000,
+                pause: 2500,
+                hoverPause: true,
+                animationStart: function(current){
+                    $('.caption').animate({
+                        bottom:-35
+                    },100);
+                    if (window.console && console.log) {
+                        // example return of current slide number
+                        console.log('animationStart on slide: ', current);
+                    };
+                },
+                animationComplete: function(current){
+                    $('.caption').animate({
+                        bottom:0
+                    },200);
+                    if (window.console && console.log) {
+                        // example return of current slide number
+                        console.log('animationComplete on slide: ', current);
+                    };
+                },
+                slidesLoaded: function() {
+                    $('.caption').animate({
+                        bottom:0
+                    },200);
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+{%block content%}
+    <div class="container">
+        <div class="span12">
+            <div class="span2">&nbsp;
+            </div>
+            <div class="span8 well">
+                <p><h5>Intellishop Product Result</h5></p>
+
+
+
+                        <div id="slides">
+                            <div class="slides_container">
+                                {%for product in prod%}
+                                    <div class="slide">
+                                        <img src="{{product.image.img.url}}" width="300" height="270" alt="Slide 1">
+                                        <div class="caption" style="bottom:0">
+                                            <p>Manufacturer: &nbsp;&nbsp; {{product.manufacturer}}</br>
+                                                Description: &nbsp;&nbsp; {{product.product_description}}</br>
+                                                Size:{{product.quantity}}&nbsp;<a href="#" >Add to cart</a></p>
+                                        </div>
+                                    </div>
+                                {%endfor%}
+                            </div>
+                            <a href="#" class="prev"><img src="/static/bootstrap/img/arrow-prev.png" width="24" height="43" alt="Arrow Prev"></a>
+                            <a href="#" class="next"><img src="/static/bootstrap/img/arrow-next.png" width="24" height="43" alt="Arrow Next"></a>
+                        </div>
+
+
+
+
+            </div>
+
+            <div class="span1">&nbsp;
+            </div>
+        </div>
+    </div> <!-- /container -->
+
+{%endblock%}
+</body>
+</html>
