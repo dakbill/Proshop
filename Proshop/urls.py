@@ -20,7 +20,6 @@ urlpatterns = patterns('',
                        url(r'^sms/',include(dj_simple_sms.urls)),
 
                        url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {
-                       'document_root': settings.STATIC_ROOT,
-                       }),
+                       'document_root': settings.STATIC_ROOT,}),
                        url(r'^media/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.MEDIA_ROOT+'/media'}),
                        )

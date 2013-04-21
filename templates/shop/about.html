@@ -2,53 +2,73 @@
 <html>
 <head>
     <title>About Us</title>
-    <style type="text/css">
-        body{
-            background-image:url("/static/bootstrap/img/bg-image.png") ;
-        }
-    </style>
+    <link rel="stylesheet" href="/static/bootstrap/css/blueprint/screen.css"/>
+    <link rel="stylesheet" href="/static/bootstrap/css/blueprint/custom.css"/>
+
+
+			  <nav>
+			    <h1><ul >
+                   <li ><a  href="{%url home  %}">IntelliShop</a></li>
+			      <li ><a href="{%url about  %}">About Us </a></li>
+                  <li ><a href="{%url shops  %}">Shops Onboard </a></li>
+			    </ul></h1>
+			  </nav><!--/.nav-collapse -->
+
 </head>
 <body>
-<h1>About Proshop</h1>
+<div class="container">
+        <section>
 
-<h2>Proshop lets you</h2>
-<!--Even though the template uses bulleted lists, you don't have to.  A simple paragraph format will work just as well.-->
-<ul>
-    <li>Search partner shop inventories</li>
-    <li>Get details of a specific product</li>
-    <li>Find products by your favourite manufacturer</li>
-</ul>
-<h2>Proshop's mission</h2>
-<ul>
-    <li>Providing shopping info</li>
-    <li>Creating a common shopping platform</li>
-</ul>
-<h2>Proshop proudly serves</h2>
-<ul>
-    <li>Marina Mall</li>
-    <li>All needs</li>
-    <li>Game</li>
-</ul>
-<h1>Proshop Team</h1>
-<ul>
-    <li>Priscilla Addison</li>
-    <li>Taichobill</li>
-</ul>
-<h2>History of Proshop</h2>
-<ul>
-    <li>Founded on the 31st of May 2012 after an incident in an unnamed shop</li>
-    <li>Major milestones of growth</li>
-    <li>Major achievements</li>
-    <li>Present-day organization (partnership, corporation, privately owned, non-profit)</li>
-    <li>Solely owned by Vive.inc</li>
-</ul>
-<p>
-    <strong>Proshop</strong>
-    <br>
-    Box 403, Mamprobi-Accra.
-    <br>
-    Ghana
-<p></p>
+            <!--Even though the template uses bulleted lists, you don't have to.  A simple paragraph format will work just as well.-->
+            <ul >
+                <h2>Proshop lets you</h2>
+                <li>Search partner shop inventories</li>
+                <li>Get details of a specific product</li>
+                <li>Find products <bdiby your favourite manufacturer</li>
+            </ul>
+
+            <ul >
+                <h2>Proshop's mission</h2>
+                <li>Providing shopping info</li>
+                <li>Creating a common shopping platform</li>
+            </ul>
+
+            <ul >
+                <h2>Proshop proudly serves</h2>
+                <li>Marina Mall</li>
+                <li>All needs</li>
+                <li>Game</li>
+            </ul>
+        </section>
+        <section>
+
+        <ul id="profile" >
+             <h1>Proshop Team</h1>
+            
+             <li><img src="/static/bootstrap/img/pris.png"></li>
+            <li><img src="/static/bootstrap/img/teamveryfi.png"></li>
+        </ul>
+
+        <ul>
+            <h2>History of Proshop</h2>
+            <li>Founded on the 31st of May 2012 after an incident in an unnamed shop</li>
+            <li>Major milestones of growth</li>
+            <li>Major achievements</li>
+            <li>Present-day organization (partnership, corporation, privately owned, non-profit)</li>
+            <li>Solely owned by Vive.inc</li>
+        </ul>
+        <p>
+            <strong>Proshop</strong>
+            <br>
+            Box 403, Mamprobi-Accra.
+            <br>
+            Ghana
+        </p>
+        </section>
+
+
+</div>
+
 
 </body>
 </html>

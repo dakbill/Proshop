@@ -7,9 +7,9 @@ class CsrfExemptResource( Resource ):
         self.csrf_exempt = getattr( self.handler, 'csrf_exempt', True )
 calc_resource = CsrfExemptResource( CalcHandler )
 urlpatterns = patterns('',
-                       url(r'^$', 'intellishop.views.home'),
+                       url(r'^$', 'intellishop.views.home',name="home"),
                        url( r'^api/(?P<expression>.*)$', calc_resource ),
-                       url(r'^shops$', 'intellishop.views.shops'),
+                       url(r'^shops$', 'intellishop.views.shops',name="shops"),
                        url(r'^about$', 'intellishop.views.about', name='about'),
 )
 

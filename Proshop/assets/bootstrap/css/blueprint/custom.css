@@ -1,0 +1,31 @@
+body{
+    background-image: url("/static/bootstrap/img/bg-image.png");
+}
+.container{
+    width: 710px;
+}
+section{
+    margin-top: 1em;
+    font-size: 120%;
+    padding: 20px;
+    width: auto;
+    border: solid;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+}
+
+#profile li{
+    list-style-type: none;
+}
+
+a{
+   color: rgba(7, 2, 5, 0.87);
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bold;
+    color: rgba(7, 2, 5, 0.87);
+}
