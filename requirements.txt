@@ -1,0 +1,6 @@
+Django==1.4
+psycopg2==2.4.5
+dj-database-url==0.2.0
+-e git+http://github.com/louissobel/python-termstyle.git@0c21ab89111fef9a86f94722794171c06d18b8a0#egg=python_termstyle-dev
+django-piston==0.2.3
+PIL==1.1.7

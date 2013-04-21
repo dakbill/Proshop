@@ -2,7 +2,222 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bf7a482-43da-4bcd-b381-1af58be59c89" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/EGG-INFO/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/cli.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distribute-0.6.15.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/distutils/distutils.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-2.7.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/gui.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip-2.7.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/python2.7.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/EGG-INFO/zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/EGG-INFO/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/UserDict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/distutils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/_abcoll.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/_weakrefset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/abc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate_this.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/alias.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/aliases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/archive_util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/ascii.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/base64_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/bdist_egg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/bdist_rpm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/bdist_wininst.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5hkscs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/build_ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/build_py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/bz2_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/charmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/codecs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/copy_reg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp037.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1006.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1026.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1140.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1250.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1251.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1252.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1253.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1254.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1255.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1256.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1257.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1258.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp424.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp437.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp500.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp720.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp737.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp775.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp850.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp852.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp855.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp856.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp857.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp858.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp860.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp861.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp862.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp863.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp864.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp865.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp866.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp869.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp874.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp875.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp932.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp949.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp950.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/EGG-INFO/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/depends.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/develop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/dist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/doctest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-2.7-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/easy_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/easy_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/egg_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/EGG-INFO/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/EGG-INFO/entry_points2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jis_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jisx0213.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_kr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/extension.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/fnmatch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb18030.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb2312.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gbk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/genericpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hex_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hp_roman8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/idna.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/install_egg_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/install_lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/install_scripts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_kr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_14.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/johab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_r.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_u.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/latin_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/linecache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/locale.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_arabic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_centeuro.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_croatian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_cyrillic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_farsi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_greek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_iceland.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_latin2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_roman.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_romanian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_turkish.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mbcs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/ntpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/orig-prefix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/os.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/package_index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/palmos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip-2.7-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/pkg_resources.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/posixpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/ptcp154.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/punycode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/quopri_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/raw_unicode_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/re.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/register.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/rot_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/rotate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/sandbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/saveopts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/sdist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/setopt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jisx0213.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/site.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/sre.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/sre_compile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/sre_constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/sre_parse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/stat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/string_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/test_build_ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/test_develop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/test_easy_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/test_packageindex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/test_resources.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/test_sandbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/tests/test_upload_docs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/tis_620.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/EGG-INFO/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/types.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/undefined.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/unicode_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/unicode_internal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/upload.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distribute-0.6.15-py2.7.egg/setuptools/command/upload_docs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_be.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_le.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_be.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_le.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8_sig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/uu_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/warnings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/encodings/zlib_codec.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Proshop/settings.py" afterPath="$PROJECT_DIR$/Proshop/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Proshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,7 +258,25 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Proshop/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="4" selection-start="865" selection-end="865" vertical-scroll-proportion="0.2828619">
+            <state line="27" column="1" selection-start="982" selection-end="982" vertical-scroll-proportion="0.796875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -219,9 +452,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dakbill\PycharmProjects\Proshop\Proshop" />
       <recent name="C:\Users\dakbill\PycharmProjects\Proshop\Proshop\assets\bootstrap\img" />
       <recent name="C:\Users\dakbill\PycharmProjects\Proshop\Proshop\assets\bootstrap\css\blueprint" />
       <recent name="C:\Users\dakbill\PycharmProjects\Proshop\Proshop\assets\bootstrap\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dakbill\PycharmProjects\Proshop" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.Proshop">
@@ -360,7 +597,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32216907" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.67145133" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3121212" sideWeight="0.67145133" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3121212" sideWeight="0.67783093" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32695374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -443,22 +680,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Proshop/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intellishop/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="41" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intellishop/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -530,16 +751,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Proshop/settings.py">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="4" selection-start="865" selection-end="865" vertical-scroll-proportion="0.2828619">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="heroku-plugin-app">
-    <option name="name" value="intellishop" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proshop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="1" selection-start="982" selection-end="982" vertical-scroll-proportion="0.796875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 
