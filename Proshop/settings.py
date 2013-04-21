@@ -23,7 +23,7 @@ MANAGERS = ADMINS
 import dj_database_url
 DATABASES = {
     'default':
-        dj_database_url.config(default="postgresql:/project")
+        dj_database_url.config(default="sqlite3:/project")
 
 }
 
@@ -129,7 +129,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'intellishop',
-    'piston',
+    #'piston',
     'dj_simple_sms',
     # Uncomment the next line to enable the admin:
     'django.contrib.admin',
