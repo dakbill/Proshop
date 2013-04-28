@@ -5,9 +5,7 @@ from django.contrib import admin
 
 class Shop(models.Model):
     shop_name = models.CharField(db_index=True, max_length=255)
-    shop_location = models.TextField(max_length=50)
-    start_time = models.DateField()
-    end_time = models.DateField()
+    shop_description = models.TextField(max_length=100)
     speciality = models.TextField(max_length=30)
     def __unicode__(self):
         return self.shop_name
